@@ -19,6 +19,7 @@ Seqeval: Tahminleri değerlendirmek için kesinlik, geri çağırma ve F1 skor �
 
 3. Veriseti ve Kullanacağımız Model
      3.1 Veriseti
+  https://data.mendeley.com/datasets/cdcztymf4k/1   
 
 3.2 Kullanılan Modeller
              3.2.1 NER(İsim Varlık Tanıma)
