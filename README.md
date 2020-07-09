@@ -1,6 +1,7 @@
 # Named entity recognition with Bert
 
 BERT Algoritması ile İsim Varlık Tanıma
+
 Emircan Sarıtaş- Feyza Zeynep Salam- Kübra Kurt- Yunus Emre Gündoğmuş- Zehra Karadağ
 121517006 - 121517012 - 121517013- 121517004- 121517014
 
