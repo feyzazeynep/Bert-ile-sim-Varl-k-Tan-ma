@@ -5,7 +5,9 @@ BERT Algoritması ile İsim Varlık Tanıma
 Emircan Sarıtaş- Feyza Zeynep Salam- Kübra Kurt- Yunus Emre Gündoğmuş- Zehra Karadağ
 121517006 - 121517012 - 121517013- 121517004- 121517014
 
-1.Proje amacı: Türkçede birçok kullanım alanı olan aynı zamanda çoğu doğal dil işleme modelinin temelinde kullanılan isim varlık tanıma problemini son zamanların popüler  BERT algoritması kullanarak modellemek.
+1.Proje amacı: Türk toplumuna yönelik, toplum odaklı bir yol izlenerek Doğal Dil İşleme yöntemlerinin geliştirmesi amaç edinilmiştir.Diğer dillerde NLP’de büyük yol katedilmiş olsa da, şirket CEO’ları bu teknolojinin daha geliştirilecek çok fazla yönünün olduğunu düşünüyor. Türkçe’de şu anda çok fazla veri seti bulunmaması da, Türkçe NLP(Doğal Dil İşleme) henüz taze ve üzerinde çok çalışılma yapılmamış ancak yapılmaya başlanmış olmasından kaynaklanmaktadır. Bizim bu çalışmayı yapmadaki amacımız da NLP dünyasında Türkçe dilinin de gelişimine fayda sağlamak,en yeni teknolojileri deneyimlemektir.
+Özetlemek gerekirse; Türkçe’de birçok kullanım alanı olan aynı zamanda çoğu doğal dil işleme modelinin temelinde kullanılan İsim Varlık Tanıma problemini son zamanların popüler  BERT algoritması kullanarak modellemek.
+
 
 2.Anahtar kelimeler
 Transformers: Tensorflow kütüphanesinde BERT i içinde bulunduran paket
